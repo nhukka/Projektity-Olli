@@ -1,0 +1,29 @@
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    text-align: center;
+   height: 100%;
+   position: relative;
+   
+}
+#logo{
+ display: inline-block;
+}
+
+.photos{
+ position: relative;
+   text-align: center;
+}
+.photos img p{
+
+    position: relative;
+    width: 40%;
+    margin: 20px;
+    float: left;
+  
+}
+
+
+
+
